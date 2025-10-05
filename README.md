@@ -42,13 +42,13 @@ Build the project using your preferred IDE or with Maven:
 Open your web browser and navigate to `http://localhost:8080`.
 
 ## ScreenShots
-![Example Image](screenshots/1.png) <br>
-![Example Image](screenshots/2-2.png) <br>
-![Example Image](screenshots/3-3.png) <br>
-![Example Image](screenshots/4-4.png) <br>
+<img width="940" height="529" alt="Image" src="https://github.com/user-attachments/assets/6b0ab019-aa4a-4945-b8ab-b40e1239ad16" /> <br>
+<img width="940" height="529" alt="Image" src="https://github.com/user-attachments/assets/3ca8b840-4858-40d2-a97e-f26d6aa2419e" /><br>
+<img width="940" height="529" alt="Image" src="https://github.com/user-attachments/assets/f1094cb9-d2be-422c-8262-aca0125156bf" /><br>
+<img width="940" height="529" alt="Image" src="https://github.com/user-attachments/assets/4bce91e5-ea27-4c22-8ada-fd7f4e1c5e85" /><br>
+<img width="940" height="529" alt="Image" src="https://github.com/user-attachments/assets/59a2edbb-5fe8-4e18-9d39-1573ab8d7b3b" /><br>
 ![Example Image](screenshots/5-5.png) <br>
 ![Example Image](screenshots/6-6.png) <br>
-![Example Image](screenshots/7.png) <br>
 ![Example Image](screenshots/8.png) <br>
 
 ## Contributions
